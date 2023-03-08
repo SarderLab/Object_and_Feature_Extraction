@@ -83,7 +83,7 @@ classname = '/Glomeruli_combined/'
 
 This will aggregate features for both classes for a comprehensive set of glomerular features.
 
-#Acknowledgements
+# Acknowledgements
 Please cite our work @
 
 
