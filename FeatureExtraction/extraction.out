@@ -1,0 +1,24 @@
+SLURM_JOBID=52132460
+SLURM_JOB_NODELIST=c0700a-s3
+SLURM_NNODES=1
+SLURMTMPDIR=
+working directory = /home/nlucarelli/FeatureExtraction
+
+Currently Loaded Modules:
+  1) ufrc           3) singularity/3.7.4   5) matlab/2022a
+  2) conda/4.12.0   4) git/2.30.1
+
+ 
+
+Launch job
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2022 The MathWorks, Inc.
+             R2022a Update 3 (9.12.0.1975300) 64-bit (glnxa64)
+                                June 2, 2022
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+All Done!
