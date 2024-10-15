@@ -20,7 +20,7 @@ Whole slide DN biopsies and annotation data can be found at athena.rc.ufl.edu
 
 # Usage
 ## **ObjectExtraction:**
-Pretrained model files for nuclear segmentation can be found at ***IDK***
+Pretrained model files for nuclear segmentation can be found at ***/blue/pinaki.sarder/nlucarelli/ObjectExtraction/model/model.ckpt-351744***
 
 Edit the "xml_to_objects.py" script to properly point to directory with model file
 ```
